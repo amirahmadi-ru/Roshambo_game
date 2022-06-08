@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import random
 def game_rps():
     win_r, win_h = 0, 0
